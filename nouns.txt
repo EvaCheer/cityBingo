@@ -1,0 +1,1 @@
+cat,car,building,shop,bar,food,bird,dog,person,hat,graffiti,phone number,trash,bottle,poster,text,word,sign,book,toy,window,headphones,hair,lights,kid
